@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Airline Reservation Project</string>
+
+    <string-array name="cities">
+        <item>Monterey</item>
+        <item>Los Angeles</item>
+        <item>Seattle</item>
+    </string-array>
+</resources>
